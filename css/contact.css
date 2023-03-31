@@ -139,6 +139,19 @@
         padding: 0;
     }
 
+    .contact__aside{
+        margin-bottom: 1rem;
+    }
+
+    .contact__social{
+        gap: 0rem;
+    }
+    
+    .contact__social li{
+        margin-left: 1rem;
+    }
+    
+
     .contact__form{
         margin: 0 1.5rem 3rem;
     }

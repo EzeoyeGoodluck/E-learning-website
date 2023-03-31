@@ -657,6 +657,17 @@ header .header__container .header__left p{
     
 }
 
+/* ===============FAQ=============== */
+.faq{
+    gap: 0rem;   
+}
+
+.faq div:first-child{
+    margin-right: 1rem;
+}
+
+
+
 
 
 
