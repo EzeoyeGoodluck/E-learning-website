@@ -145,13 +145,14 @@
 
     .form__name{
         flex-direction: column;
+        gap: 0;
     }
 
     
 
     .contact__form input[type='text']{
         width: 100%;
-        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
     }
     
     
