@@ -676,6 +676,7 @@ header .header__container .header__left p{
 
    .footer .footer__socials{
     justify-content: center;
+    margin-left: 1rem;
    }
 
 
