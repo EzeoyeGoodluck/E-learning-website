@@ -37,8 +37,7 @@ body{
     font-family: "Montserrat", sans-serif;
     line-height: 1.7;
     color: var(--color-white);
-    /* background-color: var(--color-bg); */
-    background-color: red;
+    background-color: var(--color-bg);
 }
 
 .container{
@@ -676,8 +675,10 @@ header .header__container .header__left p{
 
    .footer .footer__socials{
     justify-content: center;
-    /* margin-left: 1rem; */
-    gap: 1rem;
+   }
+
+   .footer .footer__socials li{
+    margin-left: 1rem;
    }
 
 
