@@ -85,7 +85,7 @@ img{
 
 .btn{
     display: inline-block;
-    background-color: var(--color-white);
+    /* background-color: var(--color-white); */
     padding: 1rem 2rem;
     border: 1px solid transparent;
     font-weight: 500;
@@ -101,6 +101,10 @@ img{
 .btn-primary{
     background: var(--color-danger);
     color: var(--color-white);
+}
+
+.text-white{
+    color: white;
 }
 
 
@@ -198,6 +202,11 @@ header .header__container .header__left p{
 
 .categories .categories__container .categories__left{
     text-align: left;
+}
+
+.categories .categories__container .categories__left a{
+    color: #fff !important;
+    background-color: #f75842 !important;
 }
 
 
